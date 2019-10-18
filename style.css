@@ -18,13 +18,13 @@ body, html {
 .topleft {
   position: absolute;
   top: 0;
-  left: 10px;
+  left: 8px;
 }
 
 .bottomleft {
   position: absolute;
   bottom: 0;
-  left: 8px;
+  left: 6px;
 }
 
 .middle {
