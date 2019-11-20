@@ -39,3 +39,22 @@ hr {
   margin: auto;
   width: 40%;
 }
+
+li {
+  width: 50px;
+  height: 50px;
+  background-color: pink;
+  border: thin solid black;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+li>a {
+  width: inherit;
+  height: inherit;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
