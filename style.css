@@ -40,21 +40,16 @@ hr {
   width: 40%;
 }
 
-li {
-  width: 50px;
-  height: 50px;
-  background-color: pink;
-  border: thin solid black;
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+li{
+    border:1px solid red;
+    display: inline-block;
 }
+.fa{
+    padding:15px;
+    padding-bottom: 15px;
+    padding-top:15px;
 
-li>a {
-  width: inherit;
-  height: inherit;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+}
+a{
+    display: block;
 }
