@@ -39,8 +39,3 @@ hr {
   margin: auto;
   width: 40%;
 }
-
-a[href*="twitter.com/"] {
-background:url(https://twitter.com/favicon.ico) no-repeat left center;
-padding-left:19px;
-}
