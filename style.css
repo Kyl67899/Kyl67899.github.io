@@ -21,6 +21,18 @@ body, html {
   left: 8px;
 }
 
+/* Style the form icons */
+
+.icon {
+  padding: 10px;
+  color: white;
+}
+
+.bottomright {
+  position: absolute;
+  right: 5px;
+}
+
 .bottomleft {
   position: absolute;
   bottom: 0;
