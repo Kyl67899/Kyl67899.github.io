@@ -21,18 +21,6 @@ body, html {
   left: 8px;
 }
 
-/* Style the form icons */
-
-.icon {
-  padding: 10px;
-  color: white;
-}
-
-.bottomright {
-  position: absolute;
-  right: 5px;
-}
-
 .bottomleft {
   position: absolute;
   bottom: 0;
@@ -52,3 +40,7 @@ hr {
   width: 40%;
 }
 
+a[href*="twitter.com/"] {
+background:url(https://twitter.com/favicon.ico) no-repeat left center;
+padding-left:19px;
+}
