@@ -41,13 +41,13 @@ hr {
 }
 
 li{
-    border:1px solid red;
+    border:0px solid red;
     display: inline-block;
 }
 .fa{
-    padding:15px;
-    padding-bottom: 15px;
-    padding-top:15px;
+    padding:0px;
+    padding-bottom: 0px;
+    padding-top:0px;
 
 }
 a{
