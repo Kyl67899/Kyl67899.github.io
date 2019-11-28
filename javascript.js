@@ -1,5 +1,7 @@
+// JavaScript Document
+
 // Set the date we're counting down to
-var countDownDate = new Date("May 15, 2020 12:00:00").getTime();
+var countDownDate = new Date("December 20, 2019 12:00:00").getTime();
 
 // Update the count down every 1 second
 var countdownfunction = setInterval(function() {
@@ -23,6 +25,6 @@ var countdownfunction = setInterval(function() {
 // If the count down is over, write some text 
   if (distance < 0) {
     clearInterval(countdownfunction);
-    document.getElementById("demo").innerHTML = "EXPIRED";
+    document.getElementById("demo").innerHTML = "Take you to new website.";
   }
 }, 1000);
