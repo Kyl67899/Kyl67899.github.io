@@ -9,7 +9,7 @@ body, html {
 	background-position: center;
 	background-size: cover;
 	position: relative;
-	color: white;
+	color: black;
 	font-family: "Courier New", Courier, monospace;
 	font-size: 25px;
 	text-align: center;
@@ -25,6 +25,7 @@ body, html {
   position: absolute;
   bottom: 0;
   left: 2.5px;
+  color:#000;
 }
 
 .middle {
@@ -33,6 +34,7 @@ body, html {
 	left: 50%;
 	transform: translate(-50%, -50%);
 	text-align: center;
+	color: #F00
 }
 
 hr {
