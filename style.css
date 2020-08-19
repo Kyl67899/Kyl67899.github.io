@@ -28,6 +28,16 @@ body, html {
   color:#000;
 }
 
+.bottomleft p a{
+
+	text-decoration:none;
+}
+
+.bottomleft p a:hover{
+
+	text-decoration: underline;
+}
+
 .middle {
 	position: absolute;
 	top: 50%;
